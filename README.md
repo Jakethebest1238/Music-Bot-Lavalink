@@ -50,3 +50,5 @@ Well then skip step **` 5. `**
 },
 ```
 
+Credits to the rightful owner of the template used in this repository, you can always use the owner's template for the latest updates. This repository is only used to host my music bot. Thanks.
+
