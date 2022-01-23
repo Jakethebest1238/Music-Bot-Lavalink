@@ -1,0 +1,29 @@
+{
+   "token": "",
+   "prefix": ".",
+   "ownerIDS": [
+      "571592791784816641"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: dsc.gg/jakesnation",
+      "text2": "By: Jake He#9816",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+},
+"settings": {
+   "selfDeaf": true
+ },
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
